@@ -1,0 +1,1 @@
+import qrcode # type: ignore
